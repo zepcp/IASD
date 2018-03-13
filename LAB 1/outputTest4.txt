@@ -1,0 +1,7 @@
+Nr of lines=8
+Nr of columns=9
+Solution:DDDDPUURRUUPRRDDDDDRRUUUUU
+Computational Time: 0.013000011444091797
+Depth:26
+Nodes expanded:49
+Child Nodes:1

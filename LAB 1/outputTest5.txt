@@ -1,0 +1,7 @@
+Nr of lines=10
+Nr of columns=10
+Solution:UUUUUUURRRRDDDD
+Computational Time: 0.006000041961669922
+Depth:15
+Nodes expanded:51
+Child Nodes:4

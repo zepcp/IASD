@@ -1,0 +1,1 @@
+('<=>',  'Poluidor',('not', 'Ciclista'))

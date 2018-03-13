@@ -1,0 +1,7 @@
+Nr of lines=5
+Nr of columns=5
+Solution:RRDD
+Computational Time: 0.006000041961669922
+Depth:4
+Nodes expanded:7
+Child Nodes:3

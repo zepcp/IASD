@@ -1,0 +1,4 @@
+('or', ('not','mythical'),'immortal')
+('and', ('or', 'mythical', ('not','immortal')), ('or', 'mythical','mammal'))
+('and', ('or', ('not','immortal'),'horned'), ('or', ('not','mammal'),'horned'))
+('or', ('not','horned'),'magical')

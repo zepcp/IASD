@@ -1,0 +1,37 @@
+
+Before Conversion Step:0 (line in alpha)
+Nr1: [['not', 'magical']]
+Nr2: [['not', 'mythical'], 'immortal']
+Nr3: ['mythical', ['not', 'immortal']]
+Nr4: ['mythical', 'mammal']
+Nr5: [['not', 'immortal'], 'horned']
+Nr6: [['not', 'mammal'], 'horned']
+Nr7: [['not', 'horned'], 'magical']
+
+Simplified, Step:0 (line in alpha)
+Nr1: [['not', 'magical']]
+Nr2: [['not', 'mythical'], 'immortal']
+Nr3: ['mythical', ['not', 'immortal']]
+Nr4: ['mythical', 'mammal']
+Nr5: [['not', 'immortal'], 'horned']
+Nr6: [['not', 'mammal'], 'horned']
+Nr7: [['not', 'horned'], 'magical']
+
+Ordered, Step:0 (line in alpha)
+Nr1: [['not', 'magical']]
+Nr2: [['not', 'mythical'], 'immortal']
+Nr3: ['mythical', ['not', 'immortal']]
+Nr4: ['mythical', 'mammal']
+Nr5: [['not', 'immortal'], 'horned']
+Nr6: [['not', 'mammal'], 'horned']
+Nr7: [['not', 'horned'], 'magical']
+
+Resolution for all possible clauses, Step:0 (line in alpha)
+(Finds all the complementary pairs)
+Nr1: []
+
+The theorem prover has ended successfully
+Empty Clause -> Alpha Proved!
+
+Computational Time: 0.1716001033782959 seconds
+---------------------------------------------------------

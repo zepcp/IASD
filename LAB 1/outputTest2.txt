@@ -1,0 +1,7 @@
+Nr of lines=5
+Nr of columns=5
+Solution:DDRR
+Computational Time: 0.004999876022338867
+Depth:4
+Nodes expanded:7
+Child Nodes:1

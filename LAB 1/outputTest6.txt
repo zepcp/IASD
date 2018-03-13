@@ -1,0 +1,7 @@
+Nr of lines=24
+Nr of columns=5
+Solution:UPDLPDPRDDDDDRDDDDLDDDDDDDLDDRD
+Computational Time: 1.6370000839233398
+Depth:31
+Nodes expanded:1082
+Child Nodes:24
